@@ -1,2 +1,2 @@
 # Heterogeneous-Anonymous-Remotely-Adaptable-Modular-Bot-Infection
-A botnet, mayne.
+A botnet, maybe.
