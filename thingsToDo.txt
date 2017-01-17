@@ -1,0 +1,4 @@
+Write the infection
+Write the web server
+set up the web server
+set up the database
